@@ -3,3 +3,15 @@ body {
   background-color: #333;
   color: #fff;
 }
+
+.card-primary {
+  background-color: blue;
+}
+
+.card-success {
+  background-color: green;
+}
+
+.card-danger {
+  background-color: red;
+}
